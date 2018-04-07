@@ -12,6 +12,7 @@
 		A00800C720788CB7006022CF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A00800C520788CB7006022CF /* Main.storyboard */; };
 		A00800C920788CB8006022CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A00800C820788CB8006022CF /* Assets.xcassets */; };
 		A00800CC20788CB8006022CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A00800CA20788CB8006022CF /* LaunchScreen.storyboard */; };
+		A00800D4207899E4006022CF /* RainbowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00800D3207899E4006022CF /* RainbowViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A00800C820788CB8006022CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A00800CB20788CB8006022CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A00800CD20788CB8006022CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A00800D3207899E4006022CF /* RainbowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RainbowViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				A00800C120788CB7006022CF /* AppDelegate.swift */,
 				A00800C320788CB7006022CF /* ViewController.swift */,
 				A00800C520788CB7006022CF /* Main.storyboard */,
+				A00800D3207899E4006022CF /* RainbowViewController.swift */,
 				A00800C820788CB8006022CF /* Assets.xcassets */,
 				A00800CA20788CB8006022CF /* LaunchScreen.storyboard */,
 				A00800CD20788CB8006022CF /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				A00800C420788CB7006022CF /* ViewController.swift in Sources */,
 				A00800C220788CB7006022CF /* AppDelegate.swift in Sources */,
+				A00800D4207899E4006022CF /* RainbowViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
